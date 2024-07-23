@@ -9,7 +9,6 @@ Welcome to the **Basic Weather App**! This application provides the current weat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
